@@ -1,5 +1,6 @@
 # guess_my_number
 A simple demo to learn JavaScript DOM.
+You can check this on netlify: https://guessandcheck.netlify.app/
 
 Initial Screen
 ![image](https://github.com/anusha-2002/guess_my_number/assets/116163087/20537b69-742f-4a3b-91dc-194f56aea586)
